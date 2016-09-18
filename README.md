@@ -6,3 +6,6 @@ If you want to run it locally, you can open index.html in a web browser. Dependi
 1. Open a terminal and go to the directory where you cloned this repository
 2. Type `python -m http.server` (If using python 2.x, type `python -m SimpleHTTPServer 8000`)
 3. Open a browser and go to <http://localhost:8000/>
+
+
+This website was created based off of a bootstrap template, which can be found [here](https://startbootstrap.com/template-overviews/creative/)
